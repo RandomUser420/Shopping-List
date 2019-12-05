@@ -1,0 +1,202 @@
+#room1 {
+  background-color:midnightblue;
+  width:25%;
+  height:45%;
+  border-style:inset;
+  position:absolute;
+  top:40%;
+  float:left;
+  word-wrap:break-word;
+  border-color:gold;
+  overflow:scroll;
+
+}
+
+body{ background-color:lightblue;
+     overflow:scroll;
+  
+  
+  
+}
+
+
+
+
+#room2 {
+   background-color:midnightblue;
+  width:25%;
+  height:45%;
+  border:solid;
+  border-style:inset;
+  border-color:gold;
+  position:absolute;
+  top:40%;
+  left:30%;
+  overflow:scroll;
+  word-wrap:break-word;
+  
+  ;
+}
+
+#room3 {
+ background-color:midnightblue;
+ width:25%;
+ height:45%;
+ border:solid;
+ position:absolute;
+ top:90%;
+  border-style:inset;
+  border-color:gold;
+   overflow:scroll;
+  word-wrap:break-word;
+ 
+}
+
+#room4 {
+ background-color:midnightblue;
+ width:25%;
+ height:45%;
+ border:solid;
+ position:absolute;
+ top:90%;
+ left:30%;
+  border-style:inset;
+  border-color:gold;
+   overflow:scroll;
+  word-wrap:break-word;
+ 
+}
+
+#room5 {
+ background-color:midnightblue;
+ position:absolute;
+ top:140%;
+ width:25%;
+ height:45%;
+ border:solid;
+  border-style:inset;
+  border-color:gold;
+   overflow:scroll;
+  word-wrap:break-word;
+}
+
+#room6 {
+ background-color:midnightblue;
+ position:absolute;
+ top:140%;
+ left:30%;
+ width:25%;
+ height:45%;
+ border:solid;
+  border-style:inset;
+  border-color:gold;
+   overflow:scroll;
+  word-wrap:break-word;
+}
+
+#logo {
+  background-image:url(sins.jpeg);
+  height:35%;
+  width:15%;
+  border-radius: 100%;
+  background-image: cover;
+  border:solid;
+  
+}
+
+
+
+p {
+  color:yellow;
+  font-family: 'Noticia Text', serif;
+}
+
+
+
+li { color:yellow;
+font-family: 'Noticia Text', serif;
+
+  
+}
+
+h3 {color: yellow;
+font-family: 'Noticia Text', serif;
+text-align:center;
+
+    
+}
+
+#name {
+  position:absolute;
+  color:Black;
+  left:18%;
+  bottom:65%;
+  
+  font-size:400%;
+   font-family: 'Noticia Text', serif;
+
+  
+  
+}
+
+
+
+#control {
+  position:absolute;
+  top:40%;
+  left:70%;
+  width:20%;
+  height:40%;
+  background-color:midnightblue;
+  border:solid;
+  border-color:gold;
+  border-style:inset;
+}
+
+#open {
+  text-align:center;
+  width:80%;
+  height:20%;
+}
+
+
+#clean {
+  width:80%;
+  height:20%;
+}
+
+
+
+h1 {color: yellow;
+font-family: 'Noticia Text', serif;
+  text-align:center;}
+  
+#R {
+  
+  width:80%;
+  height:20%;
+  
+  
+  
+  
+  
+  
+}
+
+
+#Thelist {
+  
+   position:absolute;
+  top:90%;
+  left:65%;
+  width:30%;
+  height:90%;
+  background-color:midnightblue;
+  border:solid;
+  border-color:gold;
+  border-style:inset;
+     overflow:scroll;
+  word-wrap:break-word;
+  
+  
+}
