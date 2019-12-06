@@ -1,5 +1,5 @@
 #room1 {
-  background-color:midnightblue;
+  background-color:rgba(41,41,41);
   width:25%;
   height:45%;
   border-style:inset;
@@ -7,12 +7,12 @@
   top:40%;
   float:left;
   word-wrap:break-word;
-  border-color:gold;
+  border-color:orange;
   overflow:scroll;
 
 }
 
-body{ background-color:lightblue;
+body{ background-color:black;
      overflow:scroll;
   
   
@@ -23,12 +23,12 @@ body{ background-color:lightblue;
 
 
 #room2 {
-   background-color:midnightblue;
+   background-color:rgba(41,41,41);
   width:25%;
   height:45%;
   border:solid;
   border-style:inset;
-  border-color:gold;
+  border-color:orange;
   position:absolute;
   top:40%;
   left:30%;
@@ -39,21 +39,21 @@ body{ background-color:lightblue;
 }
 
 #room3 {
- background-color:midnightblue;
+ background-color:rgba(41,41,41);
  width:25%;
  height:45%;
  border:solid;
  position:absolute;
  top:90%;
   border-style:inset;
-  border-color:gold;
+  border-color:orange;
    overflow:scroll;
   word-wrap:break-word;
  
 }
 
 #room4 {
- background-color:midnightblue;
+ background-color:rgba(41,41,41);
  width:25%;
  height:45%;
  border:solid;
@@ -61,27 +61,27 @@ body{ background-color:lightblue;
  top:90%;
  left:30%;
   border-style:inset;
-  border-color:gold;
+  border-color:orange;
    overflow:scroll;
   word-wrap:break-word;
  
 }
 
 #room5 {
- background-color:midnightblue;
+ background-color:rgba(41,41,41);
  position:absolute;
  top:140%;
  width:25%;
  height:45%;
  border:solid;
   border-style:inset;
-  border-color:gold;
+  border-color:orange;
    overflow:scroll;
   word-wrap:break-word;
 }
 
 #room6 {
- background-color:midnightblue;
+ background-color:rgba(41,41,41);
  position:absolute;
  top:140%;
  left:30%;
@@ -89,37 +89,42 @@ body{ background-color:lightblue;
  height:45%;
  border:solid;
   border-style:inset;
-  border-color:gold;
+  border-color:orange;
    overflow:scroll;
   word-wrap:break-word;
 }
 
 #logo {
   background-image:url(sins.jpeg);
-  height:35%;
-  width:15%;
+  height:23%;
+  width:13%;
+  position:absolute;
+  top:10%;
+  left:18%;
   border-radius: 100%;
   background-image: cover;
+  background-repeat:none;
   border:solid;
+  border-color:orange;
   
 }
 
 
 
 p {
-  color:yellow;
+  color:white;
   font-family: 'Noticia Text', serif;
 }
 
 
 
-li { color:yellow;
+li { color:white;
 font-family: 'Noticia Text', serif;
 
   
 }
 
-h3 {color: yellow;
+h2 {color:orange;
 font-family: 'Noticia Text', serif;
 text-align:center;
 
@@ -128,15 +133,17 @@ text-align:center;
 
 #name {
   position:absolute;
-  color:Black;
-  left:18%;
+  color:orange;
+  font-weight:bold;
+  left:35%;
   bottom:65%;
-  
+  text-align:center;
   font-size:400%;
    font-family: 'Noticia Text', serif;
 
   
   
+
 }
 
 
@@ -147,9 +154,9 @@ text-align:center;
   left:70%;
   width:20%;
   height:40%;
-  background-color:midnightblue;
+  background-color:rgba(41,41,41);
   border:solid;
-  border-color:gold;
+  border-color:orange;
   border-style:inset;
 }
 
@@ -167,7 +174,7 @@ text-align:center;
 
 
 
-h1 {color: yellow;
+h1 {color: orange;
 font-family: 'Noticia Text', serif;
   text-align:center;}
   
@@ -191,12 +198,14 @@ font-family: 'Noticia Text', serif;
   left:65%;
   width:30%;
   height:90%;
-  background-color:midnightblue;
+  background-color:rgba(41,41,41);
   border:solid;
-  border-color:gold;
+  border-color:orange;
   border-style:inset;
      overflow:scroll;
   word-wrap:break-word;
   
   
 }
+
+
